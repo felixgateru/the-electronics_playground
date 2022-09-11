@@ -1,8 +1,9 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <WORKSPACE>
  <FRAME activewindow="0">
-  <PLACEMENT>2c0000000200000003000000ffffffffffffffffffffffffffffffff8300000009000000d3040000cf020000</PLACEMENT>
+  <PLACEMENT>2c00000002000000030000000083ffff0083ffffffffffffffffffff8300000009000000d3040000cf020000</PLACEMENT>
   <WINDOW type="default" module="ISIS"/>
+  <WINDOW type="default" module="ARES"/>
  </FRAME>
  <MODULE name="VSMDEBUG">
   <PWI>
@@ -31,24 +32,6 @@
      <ITEM name="Watch Expression Column Width">85</ITEM>
      <ITEM name="nItems">0</ITEM>
     </PROPERTIES>
-   </POPUP>
-   <POPUP w="695" x="108" flags="00000000" y="165" h="453" pid="0" iid="9">
-    <PROPERTIES/>
-   </POPUP>
-   <POPUP w="695" x="128" flags="00000000" y="185" h="453" pid="0" iid="12">
-    <PROPERTIES/>
-   </POPUP>
-   <POPUP w="695" x="148" flags="00000000" y="205" h="453" pid="0" iid="16">
-    <PROPERTIES/>
-   </POPUP>
-   <POPUP w="695" x="403" flags="00000000" y="269" h="453" pid="0" iid="25">
-    <PROPERTIES/>
-   </POPUP>
-   <POPUP w="695" x="394" flags="00000000" y="192" h="453" pid="0" iid="30">
-    <PROPERTIES/>
-   </POPUP>
-   <POPUP w="695" x="651" flags="00008001" y="123" h="453" pid="0" iid="5">
-    <PROPERTIES/>
    </POPUP>
   </PWI>
  </MODULE>

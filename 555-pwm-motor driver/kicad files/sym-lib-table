@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "555-pwm-motor driver")(type "KiCad")(uri "${KIPRJMOD}/555-pwm-motor driver.kicad_sym")(options "")(descr ""))
+)
